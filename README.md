@@ -44,7 +44,7 @@ We were able to know that the 3 most important factors on Rate of Insufficient s
 
 ##### Heatmap of USA Life Expectancy
 - The darker the shorter the life expectancy is
-<img src='Pictures/USA Insufficient sleep rate.png'>
+<img src='https://github.com/locsta/County-Health-Analysis/blob/master/Pictures/USA%20Insufficient%20sleep%20rate.png'>
 
 ## Presentation
 You can find our slides presentation here => [Slides presentation](https://docs.google.com/presentation/d/1DPYJGTTRfYLg3wpsMcjLd3zD0rRHiUP1HixzmOl4RX4/edit?ts=5e1dfb20#slide=id.p)
