@@ -29,9 +29,9 @@ Finally we scaled our features and run Ridge, Lasso, Elastic models using cross 
 
 #### Question 1 **findings**
 We were able to know that the 3 most important factors on Life Expectancy are:
-* The 'State'
-* The 'Homicide Rate'
-* The '% Frequent Mental Distress'
+* Diabetes (negative impact)
+* Household Income (positive impact)
+* Food Insecure (negative impact)
 
 ##### Heatmap of USA Life Expectancy
 - The darker the shorter the life expectancy is
