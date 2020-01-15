@@ -26,7 +26,8 @@ Finally we scaled our features and run Ridge, Lasso, Elastic models using cross 
 * What are the most significant features for causing insufficient sleep?
 
 <img src='https://github.com/locsta/County-Health-Analysis/blob/master/Pictures/Findings%20Banner.png'>
-#### Question 1
+
+#### Question 1 **findings**
 We were able to know that the 3 most important factors on Life Expectancy are:
 * The 'State'
 * The 'Homicide Rate'
@@ -36,7 +37,7 @@ We were able to know that the 3 most important factors on Life Expectancy are:
 - The darker the shorter the life expectancy is
 <img src='https://github.com/locsta/County-Health-Analysis/blob/master/Pictures/USA%20Life%20Expectancy.png'>
 
-#### Question 2
+#### Question 2 **findings**
 We were able to know that the 3 most important factors on Rate of Insufficient sleep are:
 * The 'Air quality PM2.5'
 * The 'Excessive drinking'
