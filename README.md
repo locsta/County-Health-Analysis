@@ -17,14 +17,13 @@ For this project we investigated the Health Dataset coming from a collaboration 
 We applied our knowledge of the CRISP-DM methodology to investigate the dataset.
 We applied our previous knowledge of cleaning, EDA, dropping features based on correlations and p-values in order to prepare our dataset for modeling.
 We used feature engineering (interactions and polynomials) to build better predictors for our targets.
-Finally we scaled our features and run Lasso models
+Finally we scaled our features and run Ridge, Lasso, Elastic models using cross validation technique.
 
 #### Question 1 (Marc)
 * Can we help an Insurance company know the important factors predicting life expectancy in USA?
 
 #### Question 2 (Shuyu)
-* 
-
+* What are the most significant features for causing insufficient sleep?
 
 <img src='https://github.com/locsta/County-Health-Analysis/blob/master/Pictures/Findings%20Banner.png'>
 #### Question 1
@@ -38,7 +37,14 @@ We were able to know that the 3 most important factors on Life Expectancy are:
 <img src='https://github.com/locsta/County-Health-Analysis/blob/master/Pictures/USA%20Life%20Expectancy.png'>
 
 #### Question 2
+We were able to know that the 3 most important factors on Rate of Insufficient sleep are:
+* The 'Air quality PM2.5'
+* The 'Excessive drinking'
+* The '% Uninsured children'
 
+##### Heatmap of USA Life Expectancy
+- The darker the shorter the life expectancy is
+<img src='Pictures/USA Insufficient sleep rate.png'>
 
 ## Presentation
 You can find our slides presentation here => [Slides presentation](https://docs.google.com/presentation/d/1DPYJGTTRfYLg3wpsMcjLd3zD0rRHiUP1HixzmOl4RX4/edit?ts=5e1dfb20#slide=id.p)
