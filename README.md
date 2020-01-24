@@ -19,10 +19,10 @@ We applied our previous knowledge of cleaning, EDA, dropping features based on c
 We used feature engineering (interactions and polynomials) to build better predictors for our targets.
 Finally we scaled our features and run Ridge, Lasso, Elastic models using cross validation technique.
 
-#### Question 1 (Marc)
+#### Question 1
 * Can we help an Insurance company know the important factors predicting life expectancy in USA?
 
-#### Question 2 (Shuyu)
+#### Question 2
 * What are the most significant features for causing insufficient sleep?
 
 <img src='https://github.com/locsta/County-Health-Analysis/blob/master/Pictures/Findings%20Banner.png'>
